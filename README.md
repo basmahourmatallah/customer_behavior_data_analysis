@@ -14,7 +14,7 @@ customer_shopping_behavior.csv : 3 900 lignes, 18 colonnes (âge, genre, article
 
 ## Outils
 
-Python (pandas, SQLAlchemy, Jupyter) · PostgreSQL · Power BI · Git
+Python (pandas, SQLAlchemy) · VS Code (notebooks) · PostgreSQL · Power BI · Git
 
 Structure
 ├── data/raw/          # CSV d'origine
