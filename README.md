@@ -16,13 +16,6 @@ customer_shopping_behavior.csv : 3 900 lignes, 18 colonnes (âge, genre, article
 
 Python (pandas, SQLAlchemy) · VS Code (notebooks) · PostgreSQL · Power BI · Git
 
-Structure
-├── data/raw/          # CSV d'origine
-├── data/processed/    # données nettoyées
-├── notebooks/         # exploration, nettoyage
-├── reports/           # dashboard Power BI
-└── requirements.txt
-
 ## Méthodologie
 
 Exploration et nettoyage des données avec pandas
