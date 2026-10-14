@@ -1,8 +1,8 @@
 # customer_behavior_data_analysis
-Analyse du comportement d’achat des clients avec Python, PostgreSQL et Power BI.
-Analyse du comportement d'achat des clients
 
-# Projet data de bout en bout : nettoyage avec Python, stockage dans PostgreSQL, visualisation avec Power BI.
+# Analyse du comportement d’achat des clients avec Python, PostgreSQL et Power BI.
+
+ Projet data de bout en bout : nettoyage avec Python, stockage dans PostgreSQL, visualisation avec Power BI.
 
 ## Objectif
 
